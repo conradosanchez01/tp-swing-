@@ -64,6 +64,7 @@ public class Mavenproject2 {
    
    //Ejercicio2.iniciar();
    Ejercicio3.iniciar();
+   Ejercicio4.iniciar();
     }
 }
 
